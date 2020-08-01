@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+.box {
+    text-align: center;
+    border: 2px black solid;
+    width: 300px;
+    margin: 50px auto;
+    border-radius: 10px;
+
+}
+#lower, #add {
+    display: block;
+    margin: 20px auto;
+    width: 150px;
+    padding: 5px 10px;
+    font-size: 20px;
+}
+#lower {
+    margin-bottom: 30px;
+}
+#number {
+    font-size: 60px;
+    color: blue;
+    font-family: arial;
+    margin: 20px 0;
+}
+h1 {
+    font-size: 45px;
+    margin-top: 10px;
+}
